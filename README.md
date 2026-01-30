@@ -7,7 +7,7 @@ This project uses Logistic Regression to identify fraudulent credit card transac
 ## Project Results & Visualization
 Below is the **Confusion Matrix** which shows exactly how the model performed on the test data:
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 
 ### Model Performance Metrics:
@@ -54,6 +54,7 @@ The model was trained on a dataset of over 284,000 transactions. The primary cha
 * Rashed AlRadadi
 
 * Hamza Jan
+
 
 
 
